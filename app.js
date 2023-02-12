@@ -1,5 +1,5 @@
 // Audio player app
-
+// This is just new comment
 const songs = [
     {title: "Bebe Rexha_I Got You",img_src:"./images/song1.jpg",auto_src:"./sounds/song1.mp3"},
     {title: "CVIJA - BRZINA ",img_src:"./images/song2.jpg",auto_src:"./sounds/song1.mp3"},
